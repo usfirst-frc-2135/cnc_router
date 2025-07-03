@@ -1,0 +1,3 @@
+15:26:24:801 => [INFO] [ExtendedLoggingKflop.App] [6] Starting application
+15:26:25:815 => [INFO] [ExtendedLoggingKflop.App] [6] Calling base.OnStartup
+15:26:35:385 => [INFO] [ExtendedLoggingKflop.Services.KmotionService] [5] Method: 'KM_Controller get_KMController()'. Line: ~33. KMoition firmware version: 2
