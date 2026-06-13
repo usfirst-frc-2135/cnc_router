@@ -1,6 +1,6 @@
-#include "KMotionDef.h"
+﻿#include "KMotionDef.h"
 
-#define MAX_RPM 18000.0f
+#define MAX_RPM 24000.0f
 #define PWM_NUMBER 7 //0-7
 #define PERSIST_INPUT 95
 //#define INVERT

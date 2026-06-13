@@ -1,0 +1,775 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+<!-- Redirect to Shopify Store -->
+<script>
+    window.location.href='https://www.store.dynomotion.com';
+</script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-FSX7LN6G8E"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-FSX7LN6G8E');
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KLLZD8Q');</script>
+<!-- End Google Tag Manager -->
+	
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"/>
+<meta http-equiv="Pragma" content="no-cache"/>
+<meta http-equiv="Expires" content="0"/>
+<meta http-equiv="expires" content="Tue, 18 Jul 2023 18:15:00 GMT" />
+<meta http-equiv="pragma" content="no-cache" />	
+
+<meta charset="utf-8" />
+
+<title>Dynomotion Motion Control Boards for CNC Manufacturing and Robotics Applications</title>
+
+<meta name="keywords" content="cnc control, motion control, Ethernet motion controller, cnc boards, 4-axis, 8-axis, 16-axis, stepper, brushless, DC motor, servo, encoder, adc, dac, motion controller, automated motion, manufacturing, Mach3">
+
+<meta name="description" content="Manufacturer of premium motion control products for CNC Manufacturing, Robotics and Automation">
+
+<link rel="icon" type="image/x-icon" href="images/favicon.ico">
+<link rel="stylesheet" type="text/css" href="tablesheet.css">
+<link rel="stylesheet" type="text/css" href="menubar.css">
+
+<!--[if IE]>
+
+	<script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+<!--[if lt IE 8]>
+
+<script src="https://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE8.js"></script>
+
+<![endif]-->
+
+<!--[if lt IE 7]>
+
+	<link rel="stylesheet" type="text/css" media="all" href="css/ie6.css"/><![endif]-->
+
+
+
+<style type="text/css">
+
+	@import url(https://www.google.com/cse/api/branding.css);
+
+#slideshow { 
+    margin: 50px auto; 
+    position: relative;
+    width: 400px; 
+    height: 300px; 
+    padding: 10px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.4); 
+}
+
+#slideshow > div { 
+    position: absolute; 
+    top: 10px; 
+    left: 10px; 
+    right: 10px; 
+    bottom: 10px; 
+}
+
+#slideshow2 { 
+    margin: 50px auto;
+    position: relative; 
+    width: 400px; 
+    height: 90px; 
+    padding: 10px; 
+    box-shadow: 0 0 20px rgba(0,0,0,0.4); 
+}
+
+#slideshow2 > div { 
+    position: absolute; 
+    top: 10px; 
+    left: 10px; 
+    right: 10px; 
+    bottom: 10px; 
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-top: 0 em;
+    margin-bottom: 0 em;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0px;
+}
+	
+h1 {
+	font: bold 2em Arial, Helvetica, sans-serif; 
+	font-style: italic;
+	color:#920D0F;
+	margin: .1em;
+}	
+	
+h2 { 
+	font: bold 1.3em Arial, Helvetica, sans-serif; 
+	font-style: italic;
+	margin: .1em; 
+}		
+
+</style>
+
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+
+	<script>
+
+		$(function() {
+
+			$("#slideshow > div:gt(0)").hide();
+
+	
+			setInterval(function() { 
+
+			  $('#slideshow > div:first')
+
+			    .fadeOut(1000)
+
+			    .next()
+
+			    .fadeIn(1000)
+
+			    .end()
+
+			    .appendTo('#slideshow');
+
+			},  3000);
+
+		});
+
+	</script>
+
+	<script>
+
+		$(function() {		
+
+			$("#slideshow2 > div:gt(0)").hide();
+
+			setInterval(function() { 
+
+			  $('#slideshow2 > div:first')
+
+			    .fadeOut(1000)
+
+			    .next()
+
+			    .fadeIn(1000)
+
+			    .end()
+
+			    .appendTo('#slideshow2');
+
+			},  5000);
+
+			
+
+		});
+
+	</script>
+
+	<!-- PayPal BEGIN --> 
+
+	<script> ;(function(a,t,o,m,s){a[m]=a[m]||[];a[m].push({t:new Date().getTime(),event:'snippetRun'});var f=t.getElementsByTagName(o)[0],e=t.createElement(o),d=m!=='paypalDDL'?'&m='+m:'';e.async=!0;e.src='https://www.paypal.com/tagmanager/pptm.js?id='+s+d;f.parentNode.insertBefore(e,f);})(window,document,'script','paypalDDL','6cdb0150-c3d2-11e7-ad3d-135d7081f879'); </script> 
+
+	<!-- PayPal END -->
+
+
+	<!-- Facebook Pixel Code -->
+
+<script>
+
+  !function(f,b,e,v,n,t,s)
+
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+
+  n.queue=[];t=b.createElement(e);t.async=!0;
+
+  t.src=v;s=b.getElementsByTagName(e)[0];
+
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+
+  'https://connect.facebook.net/en_US/fbevents.js');
+
+  fbq('init', '342533469827776');
+
+  fbq('track', 'PageView');
+
+</script>
+
+<noscript><img height="1" width="1" style="display:none"
+
+  src="https://www.facebook.com/tr?id=342533469827776&ev=PageView&noscript=1" alt="FB pixel" /></noscript>
+
+<!-- End Facebook Pixel Code -->
+
+</head>
+
+
+<body bgcolor="grey" id="index" class="home">
+
+<center>
+
+	
+<table bgcolor="white" class="curvedEdges" width="1000px">
+
+<tr>
+  <td>
+		<table class="bodytext">
+		<tr>
+			<td width="20%">
+			</td>
+			<td width="60%">
+				<center>
+				<img src="images/logo_2_600_107.png" alt="Dynomotion Logo" />
+				<br />
+
+				Professional System-Level Control for CNC Manufacturing, Robotics and Automation
+				</center>
+			</td>
+
+			<td width="20%">
+				
+				<script>
+
+					(function() {
+
+					  var cx = '012657033059195044748:9fmjmlufts0';
+
+					  var gcse = document.createElement('script');
+
+					  gcse.type = 'text/javascript';
+
+					  gcse.async = true;
+
+					  gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+
+					      '//cse.google.com/cse.js?cx=' + cx;
+
+					  var s = document.getElementsByTagName('script')[0];
+
+					  s.parentNode.insertBefore(gcse, s);
+
+					})();
+
+				      </script><center><font color="AAAAAA">Site Search:</font></center>
+
+				      <gcse:search></gcse:search>
+
+				      <div id="google_translate_element" style="background: transparent;"> &nbsp; </div> <script type="text/javascript">
+
+					function googleTranslateElementInit() {
+
+					  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'de,fr,it,es,pt,ru,uk,ar,zh-CN,zh-TW,ko,iw,hi,ja,tr', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+
+						}
+
+					</script><script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+
+			</td>
+
+		</tr>
+
+		</table>
+
+		<br>
+
+		<ul id="menu">
+
+			<li><a href="https://www.store.dynomotion.com">Buy</a></li>
+
+			<li>
+
+				<a href="https://www.store.dynomotion.com/collections/all">Products</a>
+
+				<ul>
+
+					<li><a href="https://www.store.dynomotion.com/products/kogna">Kogna - 16-Axis Motion Controller</a></li>
+					
+					<li><a href="https://www.store.dynomotion.com/products/kflop">KFLOP - 8-Axis Motion Controller</a></li>
+
+                    <li><a href="https://www.store.dynomotion.com/products/kanalog">Kanalog - Analog I/O Expansion</a></li>
+                    
+                    <li><a href="https://www.store.dynomotion.com/products/konnect">Konnect - Optical I/O Expansion</a></li>
+                    
+                    <li><a href="https://www.store.dynomotion.com/products/kstep">KStep - Stepper Motor Driver</a></li>
+                    
+                    <li><a href="https://www.store.dynomotion.com/products/snapamp">SnapAmp - Multi-Purpose Amplifier</a></li>
+                    
+                    <li><a href="https://www.store.dynomotion.com/products/knozz">KNozz - 3D Printer Extruder Nozzle</a></li>
+
+				</ul>
+
+			</li>
+
+			<li>
+
+				<a href="https://www.store.dynomotion.com/pages/kmotion-kmotioncnc-and-our-feature-rich-libraries">Software</a>
+
+				<ul>
+
+					<li><a href="https://www.store.dynomotion.com/pages/kmotion-kmotioncnc-and-our-feature-rich-libraries">KMotion & KMotionCNC</a></li>
+
+					<li><a href="https://www.store.dynomotion.com/pages/download">Download</a></li>
+
+				</ul>
+
+			</li>
+
+			<li>
+
+				<a href="https://www.store.dynomotion.com/pages/support">Support</a>
+
+				<ul>
+
+					<li><a href="https://www.store.dynomotion.com/pages/support">Overview</a></li>
+
+					<li><a href="https://www.store.dynomotion.com/pages/manual"><strong>Manuals</strong></a></li>
+
+					<li><a href="https://www.dynomotion.com/forum/" target=1>Dynomotion Forum  </a></li>
+
+					<li><a href="https://www.cnczone.com/forums/dynomotion-kflop-kanalog/" target=1>CNC Forum</a></li>
+
+					<li><a href="https://www.dynomotion.com/wiki/">Wiki</a></li>
+
+					<li><a href="https://www.youtube.com/Dynomotion">YouTube</a></li>
+
+				</ul>
+
+			</li>
+
+			<li><a href="https://www.store.dynomotion.com/pages/about-us">About</a></li>
+
+			<li><a href="https://www.store.dynomotion.com/pages/faq">F.A.Q.</a></li>
+
+			<li><a href="https://www.store.dynomotion.com/pages/reviews/">Reviews</a></li>
+
+			<li><a href="https://www.store.dynomotion.com">Home</a></li>
+
+			<!--<li><form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+
+				
+
+				<input type="image" src="https://www.paypal.com/en_US/i/btn/view_cart.gif" border="0" height="25" name="I7" alt="View DynoMotion Shopping Cart" align="center">
+
+				<input type="hidden" name="display" value="1">
+
+				
+
+				<input type="hidden" name="cmd" value="_cart">
+
+				<input type="hidden" name="business" value="tk@dynomotion.com">
+
+				</form></li>-->
+
+		</ul>
+
+		<center>
+
+			<br><br>
+
+	<table cellpadding="0px">
+		<tr>
+			<td width="100%" border="0" cellpadding="10px"><table class="bodytext" cellpadding="10px" border="0">
+			  <tbody>
+				<tr>
+				<td colspan="3" class="board-header" align="center">
+			  <script>
+					// Chrome lists user agent with both Chrome and Safari
+					if (navigator.userAgent.indexOf("Safari") > -1 && navigator.userAgent.indexOf("Chrome") == -1) {
+						// The browser is Safari - this autoplays on iPhone where <video> does not
+						 document.write('<iframe width="960" height="540" src="images/Kogna01.mp4" frameborder="0" allowfullscreen></iframe>')
+					} else {
+						// Browser is not Safari - this autoplays with Chrome but not Safari
+						 document.write('<video width="960" height="540" src="images/Kogna01.mp4" frameborder="0" autoplay muted controls>Your browser does not support the video element.</video>')
+					}
+			  </script>
+				</td>
+			      </tr>
+			    <tr>
+			      <td colspan="3" class="board-header" align="center">Start Here </td>
+			      </tr>
+			    <tr>
+			      <td width="10%">&nbsp;</td>
+			      <td align="center" valign="top" width="45%"><h1>KFLOP</h1>
+			        <h2><strong><em>8-Axis Motion Controller</em></strong></h2>
+			        <p><a href="https://www.store.dynomotion.com/products/kflop"><img src="images/KFLOP/KFLOP_Perspective_400.png" width="400" height="325" alt="KFLOP 8-axis Motion Controller"/></a></p></td>
+			      <td align="center" valign="top" width="45%"><h1>Kogna</h1>
+			        <h2><strong><em>16-Axis Motion Controller</em></strong></h2>
+			        <p><a href="https://www.store.dynomotion.com/products/kogna"><img src="images/Kogna/Kogna_Perspective_400.png" width="400" height="300" alt="Kogna 16-Axis Motion Controller
+"/></a></p></td>
+			      </tr>
+			    <tr>
+			      <td width="10%">&nbsp;</td>
+			      <td valign="top" width="45%" class="bodytext"><ul>
+			        <li>USB 8-Axis Controller, 1.2 GFLOP DSP, 100k Gate FPGA </li>
+			        <li>200 MHz Speed </li>
+			        <li>16 MB SDRAM </li>
+			        <li>2MB FLASH </li>
+			        <li>90 us Sample Times (for all axes, inclusive)</li>
+			        <li>8 Controlled Axes (Microstep / Servo / Brush / Brushless / Step&amp;Dir)</li>
+			        <li>46 General Purpose LVTTL I/O</li>
+			        <li>8 Single-ended Encoder Inputs</li>
+			        <li>8 66KHz PWM Outputs</li>
+			        <li>8 2.5MHz Step&amp;Dir</li>
+			        </ul>
+			        <p><a href="https://www.store.dynomotion.com/products/kflop">Learn more &gt;&gt;</a></p></td>
+			      <td valign="top" width="45%" class="bodytext"><ul>
+			        <li><nobr>Ethernet 16-Axis Controller, 2.7 GFLOP DSP,  400k  Gate FPGA</nobr></li>
+			        <li>456 MHz Speed</li>
+			        <li>128 MB SDRAM</li>
+			        <li>512 MB FLASH</li>
+			        <li>90 us Sample Times (for all axes, inclusive)</li>
+			        <li>16 Controlled Axes (Microstep / Servo / Brush / Brushless / Step&amp;Dir)</li>
+			        <li>70 General Purpose LVTTL I/O</li>
+			        <li>20 Single-ended Encoder Inputs</li>
+			        <li>16 66KHz PWM Outputs</li>
+			        <li>16 2.5MHz Step&amp;Dir</li>
+			        </ul>
+			        <p><a href="https://www.store.dynomotion.com/products/kogna">Learn more &gt;&gt;</a></p></td>
+			      </tr>
+			    <tr>
+			      <td colspan="3" align="center" class="board-header">Then add these boards to fit your system requirements<br>
+			        <span class="bodytext">Compatible with KFLOP and Kogna</span></td>
+			      </tr>
+			    <tr>
+			      <td valign="top">&nbsp;</td>
+			      <td align="center" valign="top"><h1>Kanalog</h1>
+			        <h2><strong><em>Servo-Drive I/O</em></strong></h2></td>
+			      <td  valign="top">&nbsp;</td>
+			      </tr>
+			    <tr>
+			      <td valign="top">&nbsp;</td>
+			      <td align="center" valign="top"><a href="https://www.store.dynomotion.com/products/kanalog"><img src="images/Kanalog/Kanalog_Perspective_400.png" alt="Kanalog" width="400" height="330" border="0"></a></td>
+			      <td valign="top"><ul>
+			        <li>Most Popular for CNC applications</li>
+			        <li>&plusmn;10V Analog Servo Interface for 8 controlled axes</li>
+			        <li>8 ADC &plusmn;10V inputs</li>
+			        <li>8 Fully optically isolated inputs; 3-24V</li>
+			        <li>8 Digital source/sink inputs</li>
+			        <li>8 DAC &plusmn;10V</li>
+			        <li>8 Fully optically isolated outputs; 80V Max</li>
+			        <li>8 Digital source/sink outputs</li>
+			        <li>Easily swappable pluggable screw terminals </li>
+			        </ul>
+			        <p><a href="https://www.store.dynomotion.com/products/kanalog">Learn more &gt;&gt;</a></p></td>
+			      </tr>
+			    <tr>
+			      <td colspan="3" valign="top">&nbsp;</td>
+			      </tr>
+			    <tr>
+			      <td valign="top">&nbsp;</td>
+			      <td align="center" valign="top"><h1>Konnect</h1>
+			        <h2><strong><em>Opto-Iso I/O</em></strong></h2></td>
+			      <td valign="top">&nbsp;</td>
+			      </tr>
+			    <tr>
+			      <td valign="top">&nbsp;</td>
+			      <td align="center" valign="top"><a href="https://www.store.dynomotion.com/products/konnect"><img src="images/Konnect/Konnect_Perspective_400.png" alt="Konnect" width="400" height="408" border="0"></a></td>
+			      <td valign="top"><ul>
+			        <li>Protect your investment with optically isolated I/O</li>
+			        <li>32 Fully optically isolated inputs; 4.75-25V</li>
+			        <li>16 Fully optically isolated outputs; 30V Max, 0.25A Max</li>
+			        <li>Stack up to 4 to quadruple I/O</li>
+			        <li>Easily swappable pluggable screw terminals</li>
+			        </ul>
+			        <p><a href="https://www.store.dynomotion.com/products/konnect">Learn more &gt;&gt;</a></p></td>
+			      </tr>
+			    <tr>
+			      <td colspan="3" valign="top">&nbsp;</td>
+			      </tr>
+			    <tr>
+			      <td valign="top">&nbsp;</td>
+			      <td align="center" valign="top"><h1>KStep</h1>
+			        <h2><strong><em>Stepper Driver</em></strong></h2></td>
+			      <td valign="top">&nbsp;</td>
+			      </tr>
+			    <tr>
+			      <td valign="top">&nbsp;</td>
+			      <td align="center" valign="top"><a href="https://www.store.dynomotion.com/products/kstep.html"><img src="images/KSTEP/KStep_Perspective_400.png" alt="KStep" width="400" height="321" border="0"></a></td>
+			      <td valign="top"><ul>
+			        <li>Ideal choice for Stepper Motor applications</li>
+			        <li>4 Axes of coordinated motion - 16X microstepping</li>
+			        <li>1 Spindle control</li>
+			        <li>Stack 2 KSteps for 8 axes</li>
+			        <li>Efficiently provides up to 5 Amps</li>
+			        <li>Very easy to setup and use</li>
+			        <li>16 Fully optically isolated inputs; 11-25V</li>
+			        <li>2 Fully optically isolated outputs; 30V Max, 100ma Max; 1 Analog output which is great for spindle control</li>
+			        <li>Easily swappable pluggable screw terminals</li>
+			        </ul>
+			        <p><a href="https://www.store.dynomotion.com/products/kstep.html">Learn more &gt;&gt;</a></p></td>
+			      </tr>
+			    <tr>
+			      <td colspan="3" valign="top">&nbsp;</td>
+			      </tr>
+			    <tr>
+			      <td valign="top">&nbsp;</td>
+			      <td align="center" valign="top"><h1>SnapAmp</h1>
+			        <h2><strong><em>Multi-Purpose Amp</em></strong></h2></td>
+			      <td valign="top">&nbsp;</td>
+			      </tr>
+			    <tr>
+			      <td valign="top">&nbsp;</td>
+			      <td align="center" valign="top"><a href="https://www.store.dynomotion.com/products/snapamp.html"><img src="images/SnapAmp/SnapAmp_Perspective_400.png" alt="SnapAmp" width="400" height="283" border="0"></a></td>
+			      <td valign="top"><ul>
+			        <li>Popular for High-Power applications</li>
+			        <li>Drive 2 Brushless or 4 Brushed Servos or 2 Steppers</li>
+			        <li>Stack 2 SnapAmps for twice as many controlled axes</li>
+			        <li>PWMs at 32.5KHz</li>
+			        <li>8 fully optically isolated inputs</li>
+			        <li>4 Differential encoder inputs</li>
+			        <li>14 General purpose LVTTL I/O</li>
+			        <li>Supports 10-80VDC motor power supply per side, independent</li>
+			        </ul>
+			        <p><a href="https://www.store.dynomotion.com/products/snapamp.html">Learn more &gt;&gt;</a></p></td>
+			      </tr>
+			    <tr>
+			      <td colspan="3" valign="top">&nbsp;</td>
+			      </tr>
+			    <tr>
+			      <td valign="top">&nbsp;</td>
+			      <td align="center" valign="top"><h1>KNozz</h1>
+			        <h2><strong><em>3D Printer Extruder Nozzle</em></strong></h2></td>
+			      <td valign="top">&nbsp;</td>
+			      </tr>
+			    <tr>
+			      <td valign="top">&nbsp;</td>
+			      <td align="center" valign="top"><a href="https://www.store.dynomotion.com/products/knozz.html"><img src="images/KNozz/Knozz_Perspective_400.png" alt="Knozz" width="400" height="391" border="0"></a></td>
+			      <td valign="top"><ul>
+			        <li>ADC Nozzle Thermistor Input for Temperature Measurement</li>
+			        <li>ADC Bed Thermistor Input for Temperature Measurement</li>
+			        <li>20Amp 48V Opto-Iso FET Switch for Nozzle Heater Element</li>
+			        <li>20Amp 48V Opto-Iso FET Switch for Bed Heater Element</li>
+			        <li>Heater Switch Watch Dog</li>
+			        <li>Isolated PWM to Analog Converter</li>
+			        </ul>
+			        <p><a href="https://www.store.dynomotion.com/products/knozz.html">Learn more &gt;&gt;</a></p></td>
+			      </tr>
+			    <tr>
+			      <td colspan="3" valign="top">&nbsp;
+			        <hr /></td>
+			      </tr>
+			    <tr>
+			      <td colspan="3" align="center" valign="top"><h1>The Complete Solution</h1></td>
+			      </tr>
+			    <tr>
+			      <td colspan="3" valign="top"><table border="0" align="center" cellpadding="10">
+			        <tr valign="top">
+			          <td valign="top" width="10%"></td>
+			          <td width="45%" colspan="2" align="center" class="board-header"><strong><em>KMotion Control Platform</em></strong></td>
+			          <td align="center" class="board-header" width="45%"><strong><em>KMotionCNC</em></strong></td>
+			          </tr>
+			        <tr valign="top">
+			          <td valign="top"></td>
+			          <td colspan="2" align="center"><img src="images/KMotion-Control-Platform.png" width="383" height="208" alt="KMotion Control Platform"/></td>
+			          <td align="center"><img src="images/KMotionCNC-home.png" width="365" height="212" alt="KMotion CNC"/></td>
+			          </tr>
+			        <tr valign="top">
+			          <td valign="top"></td>
+			          <td colspan="2" align="center" class="bodytext">Change system settings and write custom C programs </td>
+			          <td align="center" class="bodytext">Use our full-featured CNC application to control machines using G Code<br />
+			            Simulate tool paths before you cut</td>
+			          </tr>
+			        <tr valign="top">
+			          <td valign="top"></td>
+			          <td colspan="2" align="center" class="bodytext"><img src="images/C-Programs.png" width="276" height="295" alt="C Programs"/></td>
+			          <td align="center" valign="middle" class="bodytext"><img src="images/Tool-Parameters.png" width="366" height="243" alt="Tool Parameters"/></td>
+			          </tr>
+			        <tr valign="top">
+			          <td valign="top"></td>
+			          <td colspan="2" align="center" class="bodytext">Benefit from many pre-written C programs to help you get started</td>
+			          <td align="center" class="bodytext">Set up all of your tool parameters</td>
+			          </tr>
+			        <tr valign="top">
+			          <td valign="top"></td>
+			          <td colspan="2" align="center" class="bodytext"><img src="images/Routines.png" width="385" height="308" alt="Pre-written routines"/></td>
+			          <td align="center" valign="middle" class="bodytext"><img src="images/TrajectoryPlanner.png" width="367" height="241" alt="Trajectory Planner parameters"/></td>
+			          </tr>
+			        <tr valign="top">
+			          <td valign="top"></td>
+			          <td colspan="2" align="center" class="bodytext">Use pre-written routines such as this AutoPhaseFind.c program to find and set system settings</td>
+			          <td align="center" class="bodytext">Set detailed Trajectory Planner parameters for mximum control over your cuts</td>
+			          </tr>
+			        <tr valign="top">
+			          <td colspan="4" align="center" class="bodytext"><hr /></td>
+			          </tr>
+			        <tr valign="top">
+			          <td colspan="4" align="center"><h1>Product Overview</h1></td>
+			          </tr>
+			        <tr valign="top">
+			          <td valign="top"></td>
+			          <td colspan="2" align="center" class="bodytext"><img src="images/Product-Overview.png" width="525" height="231" alt=""/></td>
+			          <td rowspan="2" align="left" class="bodytext"><img src="images/Products.png" alt=""/></td>
+			          </tr>
+			        <tr valign="top">
+			          <td align="center" class="bodytext"><p>&nbsp;</p>
+			            </td>
+			          <td align="center" class="bodytext"><p><strong>Host Computer</strong></p>
+			            <table width="100%" border="0">
+			              <tbody>
+			                <tr>
+			                  <td>
+								<ul>
+			              <li>Windows-based PC</li>
+			              <li>Runs KMotion.exe (Control Suite) and KMotionCNC  (CNC Interface)</li>
+			              <li><nobr>Used to set system parameters</nobr></li>
+			              <li>Performs Trajectory Planning calculations</li>
+			              </ul>
+								</td>
+			                  </tr>
+			                </tbody>
+			              </table>
+			            
+			            </td>
+			          <td align="center" class="bodytext"><p><strong>KFLOP/Kogna Controller</strong></p>
+			            
+			            <table width="100%" border="0">
+			              <tbody>
+			                <tr>
+			                  <td>
+								<ul>
+			              <li>Dynomotion-proprietary  firmware</li>
+			              <li>Can flash  user firmware (not recommended)</li>
+			              <li>Receives C  programs and compiles to produce instructions</li>
+			              <li>Sends  respective signals (LVTTL, Step &amp; Direction, etc.) to other Dynomotion  boards and 3rd party devices</li>
+			              <li>Receives  input from other Dynomotion boards and 3rd party devices</li>
+			              </ul>
+								</td>
+			                  </tr>
+			                </tbody>
+			              </table>
+			            <p>&nbsp;</p>
+			            <p>&nbsp;</p></td>
+			          </tr>
+			        <tr valign="top">
+			          <td colspan="4" align="center">&nbsp;
+			            <hr /></td>
+			          </tr>
+			        <tr valign="top">
+			          <td colspan="4" align="center"><h1>Software Options</h1></td>
+			          </tr>
+			        </table></td>
+			      </tr>
+			    <tr>
+			      <td colspan="6" valign="top"><table border="0" cellpadding="0" cellspacing="10" align="center" width="95%">
+			        <col width="33%">
+			        <col width="34%">
+			        <col width="33%">
+			        <tr valign="top">
+			          <td style="text-align:center"><h2>Kmotion Software</h2></td>
+			          <td style="text-align:center"><h2>KMotionCNC Software</h2></td>
+			          <td style="text-align:center"><h2>Custom Development, Third Party Software Compatibility and Plugins</h2></td>
+			          </tr>
+			        <tr valign="top">
+			          <td style="text-align:left" class="bodytext"><ul>
+			            <li>Write programs in C</li>
+			            <li>Tune and set system parameters and download to KFLOP/Kogna</li>
+			            <li>Poll KFLOP/Kogna for current system parameters</li>
+			            <li>Manage KFLOP/Kogna firmware</li>
+			            </ul></td>
+			          <td style="text-align:left" class="bodytext"><ul>
+			            <li>Set tooling preferences</li>
+			            <li>Set Trajectory Planning parameters</li>
+			            <li>Run G Code</li>
+			            <li>View simulation mode</li>
+			            <li>Start/Halt/Jog axes</li>
+			            </ul></td>
+			          <td style="text-align:left" class="bodytext"><ul>
+			            <li>Write custom software to run KFLOP/Kogna with our .NET libraries</li>
+			            <li>Compatible with VisualC++, VisualBasic, and C#</li>
+			            <li>LabVIEW-compatible via .NET interface</li>
+			            <li>Mach3 plugins included for Mach3 Compatibility</li>
+			            </ul></td>
+			          </tr>
+			        <tr valign="top">
+			          <td colspan="3" class="bodytext" style="text-align:left">&nbsp;
+			            <hr /></td>
+			          </tr>
+			        </table></td>
+			      </tr>
+			    <tr>
+			      <td colspan="6" valign="top"><table align="center" cellpadding="20px" class="bodytext">
+			        <tr>
+			          <td width="400px"><p align="center" class="bodytext">
+			            <!--<embed src="KFLOP.swf" height="300" width="400" border=1>
+				<br><br>-->
+			            <a href="KFLOPmp4.mp4"><img src="images/Dynomotion_KFLOP_Video.png" width="400" height="300" alt="Click to watch video"/><br>
+			              Click to watch the video (mp4)</a> <br />
+			            <a href="https://www.youtube.com/channel/UCmILL9mWUnbMX7arfOCX3HA/videos">See all of our videos</a></p></td>
+			          <td width="500px" valign="top" align="left" rowspan="2"><div align="left">
+			            <h2>Welcome to Dynomotion</h2>
+			            <div class="bodytext" align="left">
+			              <p>Thanks for visiting. We make control boards designed to develop, automate, and enable interactive objects and mechanisms.  We are excited to be a part of a revolution in the
+			                controls industry that is pushing down the price and increasing the quality of control boards that are
+			                available to the professional and the hobbyist alike.  Our strategy is to offer extreme
+			                flexibility, capability, sophistication and accuracy for a variety of applications on a single board, and a
+			                suite of boards, for a low price. </p>
+			              <h2>Choose Dynomotion's products because...</h2>
+			              <div class="bodytext" align="left">
+			                <p>Our boards offer exceptional capabilities and rock-solid performance.  The control algorithms
+			                  implemented by our software are state-of-the-art and you have the capability to program the
+			                  board in native C programming language and use G-code for CNC applications using our free KmotionCNC
+			                  software.  Our software also offers full PID control with an easy to use tuning process.</p>
+			                <p>We are passionate about control boards and equally passionate about serving our
+			                  customers. In over 20 years of business, we have sold to thousands of satisfied customers
+			                  in over 40 countries.  We feel strongly that we offer some of the best control products on the
+			                  market, but you don't have to take our word for it.  Spend some time in the forums and read our <a href="https://www.store.dynomotion.com/pages/reviews/">reviews</a> to see what our customers
+			                  have to say.</p>
+			                <div id="slideshow2">
+			                  <div> "I must say I'm extremely impressed with the DynoMotion stuff so far... Dynomotion has provided exceptional tech support... I'm so glad I took the leap with your stuff. " <br />
+			                    <br />
+			                    -Mike, <a href="https://www.cnczone.com/forums/dynomotion_kflop_kanalog/155463-dynomotion_smile.html">CNC Zone Forum Post</a></div>
+			                  <div> "Kflop is awesome!" <br>
+			                    <br>
+			                    -Brad, <a href="https://www.cnczone.com/forums/dynomotion_kflop_kanalog/141751-machine_manager_computer-numeric-control_automation_framework.html#post1029082">CNC Zone Forum Post</a></div>
+			                  <div> "Just wanted to express my satisfaction with Dynomotion products... Dynomotion has given me unlimited support.." <br>
+			                    <br>
+			                    - Carl, <a href="https://www.cnczone.com/forums/controller_cards/75011-dynomotion.html">CNC Zone Forum Post</a></div>
+			                  </div>
+			                </div>
+			              </div>
+			            </div></td>
+			          </tr>
+			        <tr>
+			          <td valign="top"></td>
+			          </tr>
+			        </table>
+			        <p><font size="2pt">*Prices exclude tax, duties, and shipping & handling.</font></p>
+			        <p align="center">Copyright © Dynomotion, Inc.</p></td>
+			      </tr>
+			    </tbody>
+			  </table></td>
+
+				
+
+		</tr>
+
+		</table>
+	</center>
+	</td>
+	</tr>
+	</table>
+<p>&nbsp;</p>
+</center>
+			</body>
+
+
+
+</html>
+

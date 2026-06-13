@@ -119,13 +119,14 @@ void init_board()
 		chan[PortArray[0]].I=0;
 		chan[PortArray[0]].D=40;
 #else
-		chan[PortArray[0]].P=1.2;				// Tuned in KMotion
-		chan[PortArray[0]].I=0;
-		chan[PortArray[0]].D=39.6;
-		chan[PortArray[0]].BacklashMode=1;		// (if 1) Attempt to correct backlash in X axis of 0.003 in.
-		chan[PortArray[0]].BacklashAmount=32;	// Attempt to correct backlash in X axis of 0.003 in.
-		chan[PortArray[0]].BacklashRate=1000;	// Attempt to correct backlash in X axis of 0.003 in.
+		chan[PortArray[0]].P=1.2;				// (2135) Tuned in KMotion
+		chan[PortArray[0]].I=0;					// (2135) 
+		chan[PortArray[0]].D=39.6;				// (2135) 
 #endif
+
+		chan[PortArray[0]].BacklashMode = 1;	// (2135) Enable backlash correction on X axis
+		chan[PortArray[0]].BacklashAmount = 10; // (2135) Correct backlash in X axis of 0.001 in.
+		chan[PortArray[0]].BacklashRate = 208;	// (2135) Correct backlash in X axis of 0.001 in. in 50 ms
 
 		chan[PortArray[0]].FFAccel=0.000000;
 		chan[PortArray[0]].FFVel=0.006000;
@@ -185,13 +186,14 @@ void init_board()
 		chan[PortArray[1]].I=0;
 		chan[PortArray[1]].D=40;
 #else
-		chan[PortArray[1]].P=1.2;				// Tuned in KMotion
-		chan[PortArray[1]].I=0;
-		chan[PortArray[1]].D=36;
-		chan[PortArray[1]].BacklashMode=1;		// (if 1) Attempt to correct backlash in X axis of 0.003 in.
-		chan[PortArray[1]].BacklashAmount=32;	// Attempt to correct backlash in X axis of 0.003 in. in counts
-		chan[PortArray[1]].BacklashRate=1000;	// Attempt to correct backlash in X axis of 0.003 in. counts/sec
+		chan[PortArray[1]].P=1.2;				// (2135) Tuned in KMotion
+		chan[PortArray[1]].I=0;					// (2135)
+		chan[PortArray[1]].D=36;				// (2135)
 #endif
+
+		chan[PortArray[1]].BacklashMode = 1;	// (2135) Enable backlash correction on X axis
+		chan[PortArray[1]].BacklashAmount = 30; // (2135) Correct backlash in Y axis of 0.003 in. in counts
+		chan[PortArray[1]].BacklashRate = 624;	// (2135) Correct backlash in Y axis of 0.003 in. in 50 ms
 
 		chan[PortArray[1]].FFAccel=0.000000;
 		chan[PortArray[1]].FFVel=0.0060000;

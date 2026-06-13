@@ -1,0 +1,4 @@
+﻿Sat, May 30, 2026, 11:11:17  Elapsed Job Time: 5:42sec C:\Users\Robotics\Downloads\Router Calibration Piece - JLM-20260530T175031Z-3-001\Router Calibration Piece - JLM\Router Calibration - JLM - inside.tap
+Sat, May 30, 2026, 11:18:27  Elapsed Job Time: 2:46sec C:\Users\Robotics\Downloads\Router Calibration Piece - JLM-20260530T175031Z-3-001\Router Calibration Piece - JLM\Router Calibration - JLM - outside.tap
+Sat, May 30, 2026, 11:38:48  Elapsed Job Time: 5:42sec C:\Users\Robotics\Downloads\Router Calibration Piece - JLM-20260530T175031Z-3-001\Router Calibration Piece - JLM\Router Calibration - JLM - inside.tap
+Sat, May 30, 2026, 11:43:32  Elapsed Job Time: 2:46sec C:\Users\Robotics\Downloads\Router Calibration Piece - JLM-20260530T175031Z-3-001\Router Calibration Piece - JLM\Router Calibration - JLM - outside.tap
